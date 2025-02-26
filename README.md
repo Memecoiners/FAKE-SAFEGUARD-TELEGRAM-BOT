@@ -6,7 +6,7 @@ crypto payment only
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ```stl
 solid cube_corner
@@ -40,4 +40,3 @@ solid cube_corner
   endfacet
 endsolid
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
