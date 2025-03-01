@@ -1,6 +1,6 @@
 # FAKE-SAFEGUARD-TELEGRAM-BOT
 PURCHASE HERE: https://t.me/bulIet
-DEMO: (https://t.me/BullXTraders)
+DEMO: (https://t.me/CashoutProfits)
 The price for full source will be 750$
 crypto payment only
 
